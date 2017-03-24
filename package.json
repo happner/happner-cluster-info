@@ -1,0 +1,19 @@
+{
+  "name": "happner-cluster-info",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happner/happner-cluster-info.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/happner/happner-cluster-info/issues"
+  },
+  "homepage": "https://github.com/happner/happner-cluster-info#readme"
+}
