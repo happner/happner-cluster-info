@@ -32,5 +32,7 @@ Info.prototype.stop = function ($happn, callback) {
 
 
 Info.prototype.__emitInfo = function ($happn) {
-  $happn.log.info('emit');
+
+  // $happn.log.info('emit');
+
 };
